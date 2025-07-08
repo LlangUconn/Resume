@@ -1,49 +1,51 @@
-# History files
-.Rhistory
-.Rapp.history
+# macOS system file
+.DS_Store
 
-# Session Data files
-.RData
-.RDataTmp
+# Quarto output cache
+_quarto/
 
-# User-specific files
-.Ruserdata
+# Ignore rendered output files if you don't want to version them
+*.html
+*.pdf
 
-# Example code in package build process
-*-Ex.R
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env/
+.venv/
 
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
+# R and RStudio project files
 .Rproj.user/
+*.Rproj
+.Rhistory
+.RData
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+# Jupyter notebook checkpoints (if used in .qmd)
+.ipynb_checkpoints/
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# VS Code workspace settings
+.vscode/
 
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
+# Node.js dependencies (if used)
+node_modules/
 
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
+# LaTeX and PDF build temp files
+*.log
+*.aux
+*.out
+*.toc
+*.tmp
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
 
-# R Environment Variables
-.Renviron
-
-# pkgdown site
-docs/
-
-# translation temp files
-po/*~
-
-# RStudio Connect folder
-rsconnect/
+# Editor or OS backup files
+*~
+*.swp
+*.bak
+Thumbs.db
+ehthumbs.db
