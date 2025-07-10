@@ -1,46 +1,14 @@
+/* 全局字体与背景 */
 body {
+    background-color: #f5f7fa;  /* 商务灰蓝背景 */
     font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
-    line-height: 1.6;
-    font-size: 16px;
-  }
-  
-  h1, h2, h3 {
-    color: #2c3e50;
-  }
-  
-  .sidebar {
-    background-color: #f8f9fa;
-    padding: 1rem;
-    border-right: 1px solid #ccc;
-/* 调整标题大小 */
-h1 {
-    font-size: 1.8rem;
-    margin-bottom: 0.6rem;
-  }
-  
-  h2 {
-    font-size: 1.4rem;
-    margin-top: 1.2rem;
-    margin-bottom: 0.5rem;
-  }
-  
-  /* 统一正文行距和字号 */
-  body {
     font-size: 1rem;
     line-height: 1.6;
-  }
-  
-  /* 可选：让 sidebar 更紧凑 */
-  .sidebar {
-    padding: 1rem;
-    font-size: 0.95rem;
-  }
-  body {
-    background-color: #f5f7fa;  /* 商务灰蓝背景 */
-    font-family: "Segoe UI", sans-serif;
     padding: 2rem 0;
+    margin: 0;
   }
   
+  /* 内容主区域（居中白底卡片） */
   main.content {
     background-color: white;
     padding: 2rem 3rem;
@@ -48,6 +16,45 @@ h1 {
     max-width: 900px;
     border-radius: 12px;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
-
   }
+  
+  /* 标题样式调整 */
+  h1 {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 0.6rem;
   }
+  
+  h2 {
+    font-size: 1.4rem;
+    color: #2c3e50;
+    margin-top: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+    color: #2c3e50;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* 侧边栏样式（如有） */
+  .sidebar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    font-size: 0.95rem;
+    border-right: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  /* 链接颜色 */
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
