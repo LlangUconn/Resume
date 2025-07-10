@@ -1,0 +1,66 @@
+---
+title: "Lang Lang"
+format: 
+  html:
+    theme: flatly
+    toc: false
+    page-layout: full
+    css: styles.css
+    embed-resources: true
+    navbar:
+      right:
+        - text: "About"
+          href: about.qmd
+        - text: "Resume"
+          href: resume.qmd
+        - text: "Projects"
+          href: "#projects"
+        - icon: github
+          href: https://github.com/LangLang
+        - icon: envelope
+          href: mailto:lang.lang@uconn.edu
+---
+
+# 👋 Hi, I'm Lang Lang
+
+I'm a data science and economics student at the University of Connecticut (UConn).  
+I enjoy uncovering insights from real-world data, building predictive models, and exploring how AI and statistics intersect with business and policy.
+
+- 🎓 Dual B.S. in Statistical Data Science & B.A. in Economics  
+- 🌍 Exchange student at University of Mannheim (Germany)  
+- 💡 Passionate about machine learning, data visualization, and applied analytics
+
+---
+
+# 🔧 Projects {#projects}
+
+### 🎯 Gold Price Forecasting (2025 Data Science Competition)
+Built regression and ML models (XGBoost, Random Forest) to predict future gold prices. Led model development, forecasting, and final report writing.
+
+### 🏠 House Price Prediction (Kaggle + Zillow)
+Merged open datasets and used Lasso, XGBoost, and SHAP to predict and explain housing prices. Compared baseline and enhanced models for accuracy.
+
+### 📚 GitHub-Based Learning Toolkit
+Contributed Python/R learning materials on regression, visualization, and data cleaning. Maintained repo, reviewed pull requests, created Jupyter notebooks.
+
+---
+
+# 📄 Resume
+You can view or download my resume below:
+
+- [📄 View Resume Online](resume.qmd)
+
+<p>
+  <a href="resume.pdf" download class="btn btn-primary">⬇️ Download PDF Resume</a>
+</p>
+
+
+---
+
+# 📬 Contact
+
+You can reach me via:
+
+- 📧 Email: [lang.lang@uconn.edu](mailto:lang.lang@uconn.edu)  
+- 🐙 GitHub: [LangLang](https://github.com/LlangUconn)  
+- 🌐 Location: Willimantic, CT, USA

@@ -1,0 +1,77 @@
+---
+title: "Lang Lang - Resume"
+format: 
+  html:
+    theme: flatly
+    toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+    css: styles.css
+    embed-resources: true
+---
+
+::: {.sidebar}
+# Lang Lang
+
+**Email:** lang.lang@uconn.edu 
+**Phone:** +1 657-799-0665  
+**Location:** Willimantic, CT  
+**GitHub:** [github.com/LangLang](https://github.com/LangLang)  
+**Languages:** Native Chinese, English, Basic German
+:::
+
+# Summary
+
+Data science & economics student with hands-on experience in business analytics, 
+machine learning, and international collaboration. Skilled in deriving insights 
+from complex data using Python, SQL, and Tableau.
+
+# Education
+
+**University of Connecticut**  
+*Sep. 2021 – Jun. 2026*  
+Dual B.S. in Statistical Data Science & B.A. in Economics, GPA: 3.50
+
+# Technical Skills
+
+- **Languages**: Python, R, SQL  
+- **Tools**: Tableau, Stata, Git, Jupyter Notebook  
+- **Other**: Microsoft Office, Google Analytics
+
+# Internships
+
+**Data Research Intern**, RSM China CPA LLP  
+*Liaoning Branch — Jun. 2024 – Aug. 2024*  
+- Cleaned and analyzed business operational data using Python and SQL  
+- Created Tableau dashboards to visualize KPIs  
+- Wrote market and financial reports for leadership  
+- Assisted in predictive modeling using machine learning
+
+**New Student Mentor**, UConn EGL Program  
+*Aug. 2022 – Aug. 2024*  
+- Mentored 30+ students through orientation and course planning  
+- Conducted one-on-one meetings and lesson planning  
+- Supported international students in academic communication
+
+# Projects
+
+**Exchange Student**, University of Mannheim  
+*Jan. 2023 – Jul. 2023*  
+- Studied global finance, monetary policy, and capital markets  
+- Participated in international academic exchange with peers from 10+ countries
+
+**Contributor**, GitHub Statistical Toolkit Project  
+*Jan. 2025 – Jun. 2025*  
+- Developed tutorials on regression, hypothesis testing, and visualization  
+- Created Jupyter Notebook examples using real-world datasets  
+- Reviewed pull requests and improved project structure
+
+# Involvement
+
+**Member**, UConn Economic Society  
+*Sep. 2021 – Present*  
+- Attended weekly discussions on current economic topics  
+- Applied economic theory to practical social challenges
