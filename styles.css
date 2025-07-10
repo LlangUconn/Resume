@@ -1,6 +1,6 @@
 /* 全局字体与背景 */
 body {
-    background-color: #f5f7fa;  /* 商务灰蓝背景 */
+    background-color: #e0edff;  /* 商务灰蓝背景 */
     font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
@@ -10,7 +10,7 @@ body {
   
   /* 内容主区域（居中白底卡片） */
   main.content {
-    background-color: white;
+    background-color: rgb(242, 242, 242);
     padding: 2rem 3rem;
     margin: auto;
     max-width: 900px;
@@ -20,7 +20,7 @@ body {
   
   /* 标题样式调整 */
   h1 {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     color: #2c3e50;
     margin-bottom: 0.6rem;
   }
