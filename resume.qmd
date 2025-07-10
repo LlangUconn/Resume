@@ -20,7 +20,6 @@ format:
 **Phone:** +1 657-799-0665  
 **Location:** Willimantic, CT  
 **GitHub:** [github.com/LangLang](https://github.com/LangLang)  
-**Languages:** Native Chinese, English, Basic German
 :::
 
 # Summary
@@ -37,9 +36,10 @@ Dual B.S. in Statistical Data Science & B.A. in Economics, GPA: 3.50
 
 # Technical Skills
 
-- **Languages**: Python, R, SQL  
+- **Programming Languages**: Python, R, SQL  
 - **Tools**: Tableau, Stata, Git, Jupyter Notebook  
 - **Other**: Microsoft Office, Google Analytics
+- **Languages:** Native Chinese, English, Basic German
 
 # Internships
 
