@@ -12,5 +12,42 @@ body {
     background-color: #f8f9fa;
     padding: 1rem;
     border-right: 1px solid #ccc;
+/* 调整标题大小 */
+h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.6rem;
   }
   
+  h2 {
+    font-size: 1.4rem;
+    margin-top: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* 统一正文行距和字号 */
+  body {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  /* 可选：让 sidebar 更紧凑 */
+  .sidebar {
+    padding: 1rem;
+    font-size: 0.95rem;
+  }
+  body {
+    background-color: #f5f7fa;  /* 商务灰蓝背景 */
+    font-family: "Segoe UI", sans-serif;
+    padding: 2rem 0;
+  }
+  
+  main.content {
+    background-color: white;
+    padding: 2rem 3rem;
+    margin: auto;
+    max-width: 900px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+
+  }
+  }

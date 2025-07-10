@@ -24,7 +24,9 @@ format:
 # 👋 Hi, I'm Lang Lang
 
 I'm a data science and economics student at the University of Connecticut (UConn).  
-I enjoy uncovering insights from real-world data, building predictive models, and exploring how AI and statistics intersect with business and policy.
+I enjoy uncovering insights from real-world data, building predictive models, 
+and exploring how AI and statistics intersect with business analysis and financial 
+trend.
 
 - 🎓 Dual B.S. in Statistical Data Science & B.A. in Economics  
 - 🌍 Exchange student at University of Mannheim (Germany)  
@@ -35,24 +37,26 @@ I enjoy uncovering insights from real-world data, building predictive models, an
 # 🔧 Projects {#projects}
 
 ### 🎯 Gold Price Forecasting (2025 Data Science Competition)
-Built regression and ML models (XGBoost, Random Forest) to predict future gold prices. Led model development, forecasting, and final report writing.
+Built regression and ML models (XGBoost, Random Forest) to predict future gold 
+prices. Led model development, forecasting, and final report writing.
 
 ### 🏠 House Price Prediction (Kaggle + Zillow)
-Merged open datasets and used Lasso, XGBoost, and SHAP to predict and explain housing prices. Compared baseline and enhanced models for accuracy.
+Merged open datasets and used Lasso, XGBoost, and SHAP to predict and explain 
+housing prices. Compared baseline and enhanced models for accuracy.
 
 ### 📚 GitHub-Based Learning Toolkit
-Contributed Python/R learning materials on regression, visualization, and data cleaning. Maintained repo, reviewed pull requests, created Jupyter notebooks.
+Contributed Python/R learning materials on regression, visualization, and data 
+cleaning. Maintained repo, reviewed pull requests, created Jupyter notebooks.
 
 ---
 
 # 📄 Resume
 You can view or download my resume below:
 
-- [📄 View Resume Online](resume.qmd)
-
-<p>
-  <a href="resume.pdf" download class="btn btn-primary">⬇️ Download PDF Resume</a>
-</p>
+<div style="margin-top: 1em; margin-bottom: 2em;">
+  <a class="btn btn-success me-2" href="resume.html" role="button" target="_blank">📄 View Resume Online</a>
+  <a class="btn btn-primary" href="resume.pdf" role="button" target="_blank">⬇️ Download PDF Resume</a>
+</div>
 
 
 ---
