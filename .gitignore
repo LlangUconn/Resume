@@ -4,9 +4,6 @@
 # Quarto output cache
 _quarto/
 
-# Ignore rendered output files if you don't want to version them
-*.html
-*.pdf
 
 # Python environment and cache
 __pycache__/
